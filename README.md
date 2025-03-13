@@ -1,4 +1,4 @@
-Module Federaion
+Module Federaion:
 Multiple separate builds should form a single application. These separate builds act like containers and can expose and consume code among themselves, creating a single, unified application.
 
 Local modules are regular modules that are part of the current build. Remote modules are modules that are not part of the current build but are loaded at runtime from a remote container.
